@@ -19,7 +19,7 @@
 <v t="leo.20171123132229.1"><vh>資訊系統</vh></v>
 </v>
 <v t="leo.20171122224218.1"><vh>目錄規劃</vh></v>
-<v t="leo.20171123133716.1" a="E"><vh>@path ./../</vh>
+<v t="leo.20171123133716.1"><vh>@path ./../</vh>
 <v t="leo.20171123133524.1"><vh>@path report</vh>
 <v t="leo.20171123133535.1"><vh>@path latex</vh>
 <v t="leo.20171123133551.1"><vh>@edit readme.md</vh></v>
@@ -138,7 +138,7 @@ elec_design - 電子控制設計相關檔案
 
 eric6_project - 資訊系統設計相關檔案
 
-report - 分組期末報告相關檔案 - 又分為 word 與 latex 兩個子目錄, 可以用任何系統編寫
+report - 分組期末報告相關檔案 - 又分為 word 與 latex 兩個子目錄, 可以用任何系統編寫 
 
 其他目錄將會配合 Fossil SCM 中的 reveal 簡報與 Pelican 網誌, 隨後將會加入
 
